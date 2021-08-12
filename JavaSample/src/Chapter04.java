@@ -11,6 +11,7 @@ public class Chapter04 {
 		final int lucky = 7;
 		System.out.println(lucky);
 		
+//		解答
         final int LUCKY_NUMBER = 7;
         String str = "ウェブ　キャンプ之助";
         System.out.println(str);
