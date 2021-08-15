@@ -11,12 +11,12 @@ public class Chapter05 {
 		  Float test4 = 0.5f;
 		  Integer test5 = 10;
 		  Character test6 = 'c';
-		  System.out.print(test4);
-		  System.out.print(test5);
-		  System.out.print(test6);
+		  System.out.println(test4);
+		  System.out.println(test5);
+		  System.out.println(test6);
 		  
 		  int[] array = {10, 20, 30, 40, 50};
-		  System.out.print(array[3]);
+		  System.out.println(array[3]);
 		  
 //        long l = 10000000000L;
 //        System.out.println(l);
