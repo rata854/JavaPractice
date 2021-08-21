@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class Chapter10 {
 	public static void main(String[] args) {
 		try {
-			int array[] = { 1, 3, 5};
+			int array[] = { 1, 3, 5 };
 			Chapter10.validIndex(array, 2);
 			Chapter10.validIndex(array, 3);
 			
